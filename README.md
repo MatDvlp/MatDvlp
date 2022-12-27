@@ -22,33 +22,7 @@ I'm now building my web applications with the help of powerful tools. For my Bac
 
 Besides that, I am also passionate about mathematics and algorithms. I have also been practicing OSInt (Open source intelligence) for two years, it is a methodology that consists in finding information on a subject on the internet, but using only what is publicly available on the web. With that I also practice the GeoInt (Geographic intelligence), this one consists in finding the localization of a given image by all the means that are at our disposal. I also practice social engineering.  
   
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🧭 I’m currently working on [Elarys](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 💻 I'm currently working on my personal website  
-  
-
-- ⚡ Fun fact: I started HTML & CSS at 10 years old!  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
+ 
 
 
 ## Languages and Tools  
