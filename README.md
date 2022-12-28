@@ -69,7 +69,7 @@ Besides that, I am also passionate about mathematics and algorithms. I have also
 
 <br/>  
 
-  
+<img src="https://wakatime.com/share/@0e74fcdf-386d-45b5-bbe0-f96105656710/0f7bc715-8fb0-4086-8da7-7975a089e02b.svg" width="500"/>
 
 <br/>  
 
