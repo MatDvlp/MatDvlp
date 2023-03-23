@@ -53,30 +53,3 @@ Besides that, I am also passionate about mathematics and algorithms. I have also
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MathisDevelopment&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathisDevelopment&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-<img src="https://wakatime.com/share/@0e74fcdf-386d-45b5-bbe0-f96105656710/0f7bc715-8fb0-4086-8da7-7975a089e02b.svg" width="500"/>
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=MathisDevelopment&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
